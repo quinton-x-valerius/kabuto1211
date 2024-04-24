@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kabuto1211
+- 👋 Hi, I’m @quinton-x-valerius
 - 👀 I’m interested in Data Science and I'm newbie here
 - 🌱 I’m currently learning programming
 
